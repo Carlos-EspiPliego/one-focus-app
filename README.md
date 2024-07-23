@@ -31,8 +31,8 @@ El objetivo de este proyecto fue implementar un temporizador con las siguientes 
 
 ### Enlaces
 
-- URL de la solución: [Fokus App Repo](https://github.com/GalaxyPliego/FocusApp-Alura_ONE)
-- URL del sitio en vivo: [Fokus App Demo](https://galaxypliego.github.io/FocusApp-Alura_ONE/)
+- URL de la solución: [Fokus App Repo](https://github.com/carlos-espipliego/one-focus-app/)
+- URL del sitio en vivo: [Fokus App Demo](https://carlos-espipliego.github.io/one-focus-app/)
 
 ## Mi proceso
 
@@ -59,9 +59,9 @@ En el desarrollo de esta aplicación, aprendimos:
 
 ## Autor
 
-- Sitio web - [Portfolio Web Carlos Espinoza](https://galaxypliego.github.io/portfolio-web-one/)
-- LinkedIn - [carlos-espipliego](https://www.linkedin.com/in/carlos-espipliego/)
-- Github - [GalaxyPliego](https://github.com/GalaxyPliego)
+- Sitio web - [Portfolio Web Carlos Espinoza](https://carlos-espipliego.github.io/portfolio-web/)
+- LinkedIn - [carlos-espipliego](https://www.linkedin.com/in/carlosespipliego/)
+- Github - [Carlos-EspiPliego](https://github.com/carlos-espipliego)
 
 ## Agradecimientos
 
